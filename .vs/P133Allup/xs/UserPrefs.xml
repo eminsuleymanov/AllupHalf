@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{8404A14F-9E26-4817-9FA0-BF2FFB8BFDDC}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="P133Allup/Program.cs">
+    <Files>
+      <File FileName="P133Allup/Areas/Manage/Views/Category/Create.cshtml" />
+      <File FileName="P133Allup/Areas/Manage/Views/Category/Update.cshtml" />
+      <File FileName="P133Allup/Areas/Manage/Controllers/ProductController.cs" />
+      <File FileName="P133Allup/Areas/Manage/Views/Product/Update.cshtml" />
+      <File FileName="P133Allup/Areas/Manage/Views/Shared/_ProductImagePartial.cshtml" />
+      <File FileName="P133Allup/wwwroot/manage/js/custom.js" />
+      <File FileName="P133Allup/Areas/Manage/Views/Dashboard/Index.cshtml" />
+      <File FileName="P133Allup/Areas/Manage/Views/Shared/_Layout.cshtml" />
+      <File FileName="P133Allup/Areas/Manage/Views/Product/Index.cshtml" />
+      <File FileName="P133Allup/Models/Product.cs" />
+      <File FileName="P133Allup/Models/AppUser.cs" />
+      <File FileName="P133Allup/Program.cs" Line="27" Column="37" />
+      <File FileName="P133Allup/DataAccessLayer/AppDbContext.cs" />
+      <File FileName="P133Allup/Migrations/20230308231624_AddedUsersTablesOrg.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="P133Allup" expanded="True">
+            <Node name="P133Allup" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Manage" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="DataAccessLayer" expanded="True" />
+              <Node name="Extentions" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20230308224855_AddedUsersTables.cs" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="manage" expanded="True">
+                  <Node name="js" expanded="True">
+                    <Node name="sb-admin-2.js" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.P133Allup PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
